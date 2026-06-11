@@ -12,8 +12,6 @@
 
 [**فارسی**](README.fa.md) | **English**
 
----
-
 </div>
 
 ---
