@@ -14,8 +14,6 @@
 
 ---
 
-<img src="docs/screenshots/main_window.png" alt="HuLagU Main Window" width="320"/>
-
 </div>
 
 ---

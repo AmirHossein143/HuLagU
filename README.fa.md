@@ -13,8 +13,6 @@
 
 ---
 
-<img src="docs/screenshots/main_window.png" alt="پنجره اصلی هولاگو" width="320"/>
-
 </div>
 
 ---
