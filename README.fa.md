@@ -156,20 +156,6 @@
 
 ---
 
-## افزودن تصاویر
-
-برای نمایش تصاویر در این README، عکس‌ها را در پوشه `docs/screenshots/` با این نام‌های دقیق ذخیره کنید:
-
-| فایل | محتوا |
-|---|---|
-| `docs/screenshots/login.png` | صفحه ورود |
-| `docs/screenshots/main_window.png` | پنجره اصلی برنامه |
-| `docs/screenshots/game_selection.png` | دیالوگ انتخاب بازی |
-
-سپس فایل‌ها را به مخزن push کنید — تصاویر به‌صورت خودکار در README بالا نمایش داده می‌شوند.
-
----
-
 </div>
 
 <div align="center">

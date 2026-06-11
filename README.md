@@ -146,20 +146,6 @@ Look for an "Exceptions" or "Exclusions" section in your antivirus settings and 
 
 ---
 
-## Adding Your Screenshots
-
-To display the screenshots in this README, save your images to the `docs/screenshots/` folder with these exact names:
-
-| File | Content |
-|---|---|
-| `docs/screenshots/login.png` | Login screen |
-| `docs/screenshots/main_window.png` | Main application window |
-| `docs/screenshots/game_selection.png` | Game selection dialog |
-
-Then push the files to your repository — the images will appear automatically in the README above.
-
----
-
 <div align="center">
 
 *Conquer your ping, Vanquish your enemies!*
