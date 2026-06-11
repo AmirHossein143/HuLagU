@@ -146,7 +146,6 @@ Look for an "Exceptions" or "Exclusions" section in your antivirus settings and 
 - **Telegram Support:** [@HuLagUsupport](https://t.me/HuLagUsupport)
 - **Telegram Channel:** [@hulaguservice](https://t.me/hulaguservice)
 - **Telegram Bot:** [@HuLagUbot](https://t.me/HuLagUbot)
-- **Instagram:** [@HuLagU](https://instagram.com/HuLagU)
 - **Discord:** [Join our server](https://discord.gg/HuLagU)
 
 ---

@@ -155,7 +155,6 @@
 - **تلگرام پشتیبانی:** [@HuLagUsupport](https://t.me/HuLagUsupport)
 - **کانال تلگرام:** [@hulaguservice](https://t.me/hulaguservice)
 - **ربات تلگرام:** [@HuLagUbot](https://t.me/HuLagUbot)
-- **اینستاگرام:** [@HuLagU](https://instagram.com/HuLagU)
 - **دیسکورد:** [عضویت در سرور](https://discord.gg/HuLagU)
 
 ---
