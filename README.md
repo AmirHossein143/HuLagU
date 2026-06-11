@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/hulagu_text.png" alt="HuLagU Logo" width="220"/>
+<img src="assets/images/hulagu.ico" alt="HuLagU Logo" width="220"/>
 
 # HuLagU — Gaming Network Optimizer
 

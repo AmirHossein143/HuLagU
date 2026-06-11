@@ -1,6 +1,6 @@
 <div align="center" dir="rtl">
 
-<img src="assets/images/hulagu_text.png" alt="لوگوی هولاگو" width="220"/>
+<img src="assets/images/hulagu.ico" alt="لوگوی هولاگو" width="220"/>
 
 # هولاگو — بهینه‌ساز شبکه گیمینگ
 
